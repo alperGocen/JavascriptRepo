@@ -1,0 +1,1 @@
+These are the javascript codes I used during my javascript education.
